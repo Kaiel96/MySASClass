@@ -4,9 +4,6 @@ Assignment: Lab2
 Due date: Wed September 30 2015
 */
 
-/*****************/
-/* GRADE: 19/20
-/*****************/
 
 /*X was supposed to be initialized to 4 to check, -1*/
 data factorial;

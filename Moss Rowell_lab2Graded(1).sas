@@ -10,7 +10,7 @@ Due date: Wed September 30 2015
 
 /*X was supposed to be initialized to 4 to check, -1*/
 data factorial;
-	x = 13;
+	x = 4;
 	fact = 1;
 	do while (x>1);
 		fact = fact * (x*(x-1));
